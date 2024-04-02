@@ -1,0 +1,5 @@
+venv
+.env
+private/
+accounts/instagram.txt
+__pycache__
