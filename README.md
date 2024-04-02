@@ -2,6 +2,6 @@ This project was created to stop checking news on addicting social media apps/we
 
 create instagram credentials file under /private/instagram_credentials.txt:
 
-james
+james\n
 12345
 
