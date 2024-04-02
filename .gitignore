@@ -1,5 +1,4 @@
 venv
 .env
-private/
-accounts/instagram.txt
+private/instagram_credentials.txt
 __pycache__
